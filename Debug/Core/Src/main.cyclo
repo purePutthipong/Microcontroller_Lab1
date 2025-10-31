@@ -1,0 +1,9 @@
+../Core/Src/main.c:89:5:main	15
+../Core/Src/main.c:173:6:SystemClock_Config	3
+../Core/Src/main.c:220:13:MX_GPIO_Init	1
+../Core/Src/main.c:304:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/main.c:321:6:ButtonMatrixRead	3
+../Core/Src/main.c:338:5:getButtonIndex	20
+../Core/Src/main.c:368:6:getOutput	6
+../Core/Src/main.c:409:6:getLed	2
+../Core/Src/main.c:429:6:Error_Handler	1
